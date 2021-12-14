@@ -1,4 +1,5 @@
 music.playTone(523, music.beat(BeatFraction.Half))
+music.rest(music.beat(BeatFraction.Sixteenth))
 music.playTone(523, music.beat(BeatFraction.Whole))
 music.playTone(349, music.beat(BeatFraction.Half))
 music.playTone(523, music.beat(BeatFraction.Whole))
